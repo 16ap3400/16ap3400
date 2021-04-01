@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alex Peterson
+- 📱 I’m interested in developing iOS Applications
+- 📈 My formal education is in Statistics and Computer Science
